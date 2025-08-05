@@ -128,6 +128,8 @@ A comprehensive to-do list for Minecraft survival mode, organized by game stages
   - 🛶 **Fletcher** (Easy emeralds from sticks, sells arrows/bows)
   - 🐟 **Fisherman** (Bucket of cod, easy trades if near water)
 
+- ⭐Add villager zombification system
+
 ### ✅ Advanced Farming 🟡
 - [ ] **Make a Turtle Shell Helmet** (gives water breathing)
 - [ ] **Make a conduit and activate it underwater** (requires heart of the sea + nautilus shells + prismarine)
